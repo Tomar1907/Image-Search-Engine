@@ -1,0 +1,1 @@
+const UNSPLASH_KEY = "Original API key here";
